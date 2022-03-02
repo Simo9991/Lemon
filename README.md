@@ -9,15 +9,15 @@ a light scroll animation library which using interesection observer api
 then... 
 
 ```
-import { Lemon } from { Lemon }
+import { Lemon } from { lemon-scroll }
 
 Lemon({
-    el://insert your dom Element es: ".box",
-    animation://isert your own animation es: "fadeIn",
-    duration://animtion duration in second --> 0.3,
+    el: insert your dom Element es: ".box",
+    animation: isert your own animation es: "fadeIn",
+    duration: animtion duration in second --> 0.3,
     options:{
-        margin:"margin of animation"
-        retartd:"when is visible the animation"
+        margin: margin of animation
+        retartd: when is visible the animation
     }
 
 })
