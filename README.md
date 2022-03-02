@@ -7,7 +7,9 @@ copy and paste this
 
     npm i lemon-scroll --save
 
-then, import the { Lemon } module into your javascript file like this
+# THEN
+
+import the { Lemon } module into your javascript file like this
 
     
     import { Lemon } from { lemon-scroll }
