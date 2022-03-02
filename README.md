@@ -23,6 +23,15 @@ import the { Lemon } module into your javascript file like this
         }
     })
     
+    
+lemon   | options 
+-------------  | -------------
+`el`   | `single element or multiple element` like `[".images",".box"]`
+`animation`   |   `fadeIn`,`fadeUp`,`fadeLeft`,`fadeRight` etc
+`duration`    | express in second like `0.3`
+`options`     | an object that contain the margin and retard
+    
+    
 after that import the css file into your html file 
 
 `node_modules/lemon-scroll/index.css`
@@ -42,4 +51,3 @@ inside the css file you can find all the lemon animation
     zoom-in
     zoom-out
     
-
