@@ -9,7 +9,7 @@ copy and paste this
 
 then, import the { Lemon } module into your javascript file like this
 
-    ```
+    
     import { Lemon } from { lemon-scroll }
     new Lemon({
         el: insert your dom Element ex: ".box",
@@ -20,4 +20,4 @@ then, import the { Lemon } module into your javascript file like this
             retartd: a value between 0 and 1
         }
     })
-    ```
+    
