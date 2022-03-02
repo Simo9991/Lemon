@@ -8,7 +8,7 @@ a light scroll animation library which using interesection observer api
 
 then... 
 
-`
+```
 import { Lemon } from { Lemon }
 
 Lemon({
@@ -21,5 +21,4 @@ Lemon({
     }
 
 })
-
-`
+```
