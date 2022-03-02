@@ -12,7 +12,7 @@ copy and paste this
 import the { Lemon } module into your javascript file like this
 
     
-    import { Lemon } from { lemon-scroll }
+    import { Lemon } from " lemon-scroll "
     new Lemon({
         el: insert your dom Element ex: ".box",
         animation: insert one of Lemon's animations
