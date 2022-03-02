@@ -25,6 +25,15 @@
     transform: translate3d(100px,0px,0);
     transition-timing-function:cubic-bezier(0.16, 0.88, 0.32, 1.27);
 }
+.flip-left{
+    transform: rotateY(-180deg);
+    perspective: 1000px;
+    transform-style: preserve-3d;
+}
+.flip-left.isVisible{
+    transform: rotateY(0deg);
+    transition-timing-function:cubic-bezier(0.16, 0.88, 0.32, 1.27);
+}
 .flip-right{
     transform: rotateY(180deg);
     perspective: 1000px;
@@ -52,6 +61,13 @@
     transform: scale(0);
 }
 .zoom-in.isVisible{
+    transform: scale(1);
+    transition-timing-function:cubic-bezier(0.25, 0.1, 0, 1.68);
+}
+.zoom-out{
+    transform: scale(1.7);
+}
+.zoom-out.isVisible{
     transform: scale(1);
     transition-timing-function:cubic-bezier(0.25, 0.1, 0, 1.68);
 }
