@@ -48,8 +48,6 @@ class Lemon {
           e.classList.add(ani);
           let top = e.getBoundingClientRect().top;
           let height = e.getBoundingClientRect().height;
-          console.log(top - innerHeights);
-
           if (top - innerHeights > -(height / 2) && event.deltaY < 0) {
             if (e.classList.contains("isVisible")) {
               e.classList.remove("isVisible");
