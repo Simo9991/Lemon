@@ -1,12 +1,19 @@
 {
-  "name": "lemon",
+  "name": "lemon-scroll",
   "version": "1.0.0",
-  "description": "",
+  "description": "a light scroll animation library which using interesection observer api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simo9991/Lemon.git"
+  },
+  "author": "simone marrandino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simo9991/Lemon/issues"
+  },
+  "homepage": "https://github.com/Simo9991/Lemon#readme"
 }

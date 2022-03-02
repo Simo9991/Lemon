@@ -4,7 +4,7 @@ a light scroll animation library which using interesection observer api
 
 # installation 
 
-`npm i lemon --save`
+`npm i lemon-scroll --save`
 
 then... 
 
