@@ -1,6 +1,6 @@
 {
   "name": "lemon-scroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a light scroll animation library which using interesection observer api",
   "main": "index.js",
   "scripts": {
