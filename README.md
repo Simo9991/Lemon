@@ -23,3 +23,21 @@ import the { Lemon } module into your javascript file like this
         }
     })
     
+after that import the css file into your html file 
+
+`node_modules/lemon-scroll/index.css`
+
+inside the css file you can find all the lemon animation 
+
+# List of animation 
+
+    fadeIn
+    fadeUp
+    fadeLeft
+    fadeRight
+    flip-right
+    fade-up-left
+    fade-up-right
+    zoom-in
+    
+
