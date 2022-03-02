@@ -11,7 +11,7 @@ then...
 ```
 import { Lemon } from { lemon-scroll }
 
-Lemon({
+new Lemon({
     el: insert your dom Element es: ".box",
     animation: isert your own animation es: "fadeIn",
     duration: animtion duration in second --> 0.3,
