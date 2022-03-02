@@ -32,20 +32,12 @@ inside the css file you can find all the lemon animation
 # List of animation 
 
     fadeIn
-
     fadeUp
-
     fadeLeft
-
     fadeRight
-
     flip-right
-
     fade-up-left
-
     fade-up-right
-
     zoom-in
-    
     
 
