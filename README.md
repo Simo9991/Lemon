@@ -5,7 +5,7 @@ lemon-scroll is a tiny javascript library and its purpose is to animate elements
 # installation 
 copy and paste this 
 
-    `npm i lemon-scroll --save`
+    npm i lemon-scroll --save
 
 then, import the { Lemon } module into your javascript file like this
 
